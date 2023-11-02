@@ -1,0 +1,10 @@
+/TODO
+build/
+*.txt
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
